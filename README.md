@@ -3,7 +3,7 @@
 🌱 I’m currently learning more about Python, SQL, Tableau, and expanding my knowledge in machine learning and MLOps.
 📫 How to reach me: You can connect with me via LinkedIn at linkedin.com/in/vanessacunharamos or email me at vanessacrramos@gmail.com.
 😄 Pronouns: she/her
-⚡ Fun fact: I love reading fiction and romance novels, and I’m always up for an adventure to explore new places or languages.
+⚡ Fun fact: I love reading fiction and romance novels, and I’m always up for an adventure to explore new places.
 
 <!---
 vanessacrramos/vanessacrramos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
